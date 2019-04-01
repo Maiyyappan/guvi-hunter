@@ -29,7 +29,7 @@ int main()
     {
        for(j=i+1;b[j]!='\0';j++)
        {
-           if(a[i]>a[j])
+           if(b[i]>b[j])
            {
            f=b[i];
            b[i]=b[j];
